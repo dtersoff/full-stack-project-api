@@ -1,9 +1,9 @@
-class ServantsController < ApplicationController
+class ServantsController < ProtectedController
   before_action :set_servant, only: [:show, :update, :destroy]
 
   # GET /servants
   def index
-    @servants = Servant.all
+    @servants = current_user.servants.all
 
     render json: @servants
   end
@@ -15,10 +15,10 @@ class ServantsController < ApplicationController
 
   # POST /servants
   def create
-    @servant = Servant.new(servant_params)
+    @servant = current_user.servants.build(servant_params)
 
     if @servant.save
-      render json: @servant, status: :created, location: @servant
+      render json: @servant, status: :created
     else
       render json: @servant.errors, status: :unprocessable_entity
     end
@@ -39,13 +39,14 @@ class ServantsController < ApplicationController
   end
 
   private
-    # Use callbacks to share common setup or constraints between actions.
-    def set_servant
-      @servant = Servant.find(params[:id])
-    end
 
-    # Only allow a trusted parameter "white list" through.
-    def servant_params
-      params.require(:servant).permit(:name, :sclass, :rarity, :level, :atk, :hp)
-    end
+  # Use callbacks to share common setup or constraints between actions.
+  def set_servant
+    @servant = current_user.servants.find(params[:id])
+  end
+
+  # Only allow a trusted parameter "white list" through.
+  def servant_params
+    params.require(:servant).permit(:name, :class, :rarity, :level, :atk, :hp)
+  end
 end
