@@ -1,3 +1,3 @@
 class ServantSerializer < ActiveModel::Serializer
-  attributes :id, :name, :class, :rarity, :level, :atk, :hp
+  attributes :id, :name, :"s-class", :rarity, :level, :atk, :hp
 end
