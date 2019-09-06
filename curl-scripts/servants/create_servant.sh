@@ -7,7 +7,7 @@ curl "http://localhost:4741/servants" \
   --data '{
     "servant": {
       "name": "'"${NAME}"'",
-      "s-class": "'"${SCLASS}"'",
+      "sclass": "'"${SCLASS}"'",
       "rarity": "'"${RARITY}"'",
       "level": "'"${LEVEL}"'",
       "atk": "'"${ATK}"'",
