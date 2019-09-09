@@ -47,6 +47,6 @@ class ServantsController < ProtectedController
 
   # Only allow a trusted parameter "white list" through.
   def servant_params
-    params.require(:servant).permit(:name, :class, :rarity, :level, :atk, :hp)
+    params.require(:servant).permit(:name, :sclass, :rarity, :level, :atk, :hp)
   end
 end

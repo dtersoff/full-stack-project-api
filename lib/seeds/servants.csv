@@ -1,0 +1,132 @@
+sclass,name,rarity,level,hp,atk
+Saber,Altera,5,74,11840,10524
+Saber,Artoria Pendragon,5,50,9362,7011
+Saber,Mordred,5,86,14953,12168
+Saber,Artoria Pendragon (Alter),4,54,9379,8300
+Saber,Elisabeth Bathory,4,70,9444,8338
+Saber,Gawain,4,56,8603,7705
+Saber,Lancelot,4,55,9574,8209
+Saber,Rama,4,54,8194,6733
+Saber,Siegfried,4,51,10833,6271
+Saber,Bedivere,3,52,8579,6798
+Saber,Fergus Mac Roich,3,56,7781,5935
+Saber,Gaius Julius Caesar ,3,54,8825,6897
+Saber,Gilles de Rais,3,63,10384,6512
+Archer,Arjuna,5,75,10867,10180
+Archer,Artoria Pendragon,5,84,13708,10677
+Archer,Anne Bonny & Mary Read,4,54,8863,7246
+Archer,Atalante,4,69,10264,7117
+Archer,Chloe von Einzbern,4,80,11014,9905
+Archer,Emiya,4,54,9334,7612
+Archer,Emiya Alter ,4,47,8038,5882
+Archer,Helena Blavatsky,4,50,7763,6464
+Archer,Oda Nobunaga,4,48,7668,6291
+Archer,Tristan ,4,50,8744,7347
+Archer,Billy the Kid,3,70,9556,6920
+Archer,David ,3,49,6192,5606
+Archer,Euryale,3,46,6813,5089
+Archer,Gilgamesh (child),3,50,5922,5270
+Archer,Robin Hood,3,60,9015,5922
+Archer,Tawara Touta,3,50,7855,5646
+Archer,Arash,1,51,6340,5097
+Lancer ,Artoria Pendragon,5,80,14151,9944
+Lancer ,Karna,5,62,8769,7793
+Lancer ,Tamamo-no-Mae,5,82,13993,9939
+Lancer ,Artoria Pendragon (Alter),4,50,8332,7077
+Lancer ,Elizabeth Bathory,4,54,8599,6633
+Lancer ,Fionn mac Cumhaill,4,50,7809,5489
+Lancer ,Jeanne Santa Alter Lily,4,74,10743,8352
+Lancer ,Li Shuwen,4,58,9815,8335
+Lancer ,Medusa,4,50,8457,5363
+Lancer ,Minamoto-no-Raikou,4,60,9527,7227
+Lancer,Cu Chulainn,3,70,9643,7239
+Lancer,Cu Chulainn (prototype),3,51,9781,6285
+Lancer,Diarmuid,3,50,6947,4685
+Lancer,Hektor,3,49,7668,5247
+Lancer,Jaguar Warrior,3,70,9683,7202
+Lancer,Romulus ,3,50,7532,5539
+Lancer,Leonidas,2,50,5788,4773
+Lancer,Musashibou Benkei,2,48,6433,4100
+Rider,Artoria Pendragon (Alter),5,50,8811,6686
+Rider,Iskandar,5,80,12287,10929
+Rider,Quetzalcoatl ,5,72,10864,9991
+Rider,Anne Bonny & Mary Read,4,54,8614,6929
+Rider,Ishtar,4,50,6515,5881
+Rider,Marie Antoinette ,4,45,7254,4885
+Rider,Mordred,4,77,10990,8895
+Rider,Saint Martha,4,50,8966,5495
+Rider,Sakata Kintoki,4,80,10830,9839
+Rider,Artoria Pendragon (Santa Alter),4,57,8972,7375
+Rider,Alexander,3,50,6595,5648
+Rider,Boudica,3,50,7720,4823
+Rider,Medusa,3,60,7904,6499
+Rider,Ushiwakamaru,3,46,5761,4527
+Rider,Edward Teach,2,50,7225,5657
+Rider,Georgios ,2,48,7223,4100
+Caster,Illyasviel,5,82,12183,9571
+Caster,Leonardo da Vinci,5,80,13452,9972
+Caster,Nero,5,74,12879,10233
+Caster,Elizabeth Bathory,4,79,11291,8513
+Caster,Gilgamesh,4,70,11227,7964
+Caster,Helena Blavatsky ,4,40,6831,4983
+Caster,Irisviel,4,40,7194,4777
+Caster,Marie Antoinette,4,46,6719,5368
+Caster,Nitocris,4,46,6651,5388
+Caster,Nursery Rhyme,4,55,8868,6499
+Caster,Thomas Edison ,4,48,7470,5022
+Caster,Charles Babbage,3,50,10315,6136
+Caster,Cu Chulainn,3,43,6036,4121
+Caster,Geronimo ,3,48,6756,5075
+Caster ,Gilles de Rais,3,48,7913,5399
+Caster ,Medea,3,46,6871,5907
+Caster,Mephistopheles,3,46,5880,4366
+Caster,Paracelsus von Hohenheim,3,45,6876,4737
+Caster,William Shakespeare ,2,47,7007,5060
+Caster,Hans Christian Andersen,2,52,7938,5365
+Caster,Wolfgang Amadeus Mozart ,1,60,7139,5215
+Assassin ,First Hassan,5,65,11604,10235
+Assassin ,Jack the Ripper ,5,80,11146,10159
+Assassin ,Shuten-Douji,5,83,11739,11039
+Assassin ,Emiya,4,50,7229,5820
+Assassin ,Nitocris,4,40,6680,5140
+Assassin ,Scathach,4,76,10719,8764
+Assassin ,Stheno,4,50,7841,6149
+Assassin ,Assassin of Nightless City,4,63,8124,6658
+Assassin ,Fuuma Kotarou,3,56,6872,5430
+Assassin ,Henry Jekyll & Hyde,3,50,7474,4877
+Assassin ,Hundred Faces,3,50,7462,5378
+Assassin ,Jing Ke,3,48,5422,4730
+Assassin ,Serenity,3,44,6123,4406
+Assassin ,Charles Henri Sanson,2,45,6959,4544
+Assassin ,Cursed Arm,2,58,6985,5831
+Assassin ,Phantom of the opera,2,53,7112,4779
+Assassin ,Mata Hari,1,50,6230,4279
+Assassin ,Sasaki Kojirou,1,50,4976,4552
+Berserker ,Minamoto-no-Raikou,5,46,7820,6739
+Berserker ,Sakata Kintoki,5,80,11356,11762
+Berserker ,Beowulf,4,48,6874,6849
+Berserker ,Chacha,4,63,8600,6999
+Berserker ,Frankenstein ,4,52,7078,6278
+Berserker ,Heracles,4,50,7413,7665
+Berserker ,Ibaraki-Douji,4,47,7319,6484
+Berserker ,Lancelot,4,80,10377,10557
+Berserker ,Penthesilea,4,50,6937,7176
+Berserker ,Tamamo Cat ,4,80,12458,10026
+Berserker ,Darius III,3,46,6282,5451
+Berserker ,Kiyohime,3,44,6332,4604
+Berserker ,Lu Bu,3,49,5517,5414
+Berserker ,Caligula,2,65,7813,6861
+Berserker ,Eric Bloodaxe,2,50,6221,5144
+Berserker ,Asterios ,1,42,5877,4525
+Berserker ,Paul Bunyan,1,40,4064,3888
+Berserker ,Spartacus ,1,42,5229,3371
+Shielder ,Mash ,3,80,13897,9720
+Alter Ego,Meltryllis,5,90,13512,11822
+Alter Ego,Sessyoin Kiara,5,90,15606,12668
+Alter Ego,Passionlip,4,80,10901,10339
+Moon Cancer,BB,4,80,13643,8197
+Avenger,Edmond Dantes,5,90,12497,12991
+Avenger,Hessian Lobo,4,69,9614,10323
+Avenger,Angra Mainiiu,2,65,8751,6673
+Ruler ,Sherlock Holmes,5,50,8232,7121
+Ruler ,Saint Martha,4,80,12240,10536
