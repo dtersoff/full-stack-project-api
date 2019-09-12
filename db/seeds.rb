@@ -23,7 +23,7 @@ csv.each do |row|
   s.level = row['level']
   s.hp = row['hp']
   s.atk = row['atk']
-  s.user_id = 3
+  s.user_id = 1
   s.save
 end
 puts csv_text
